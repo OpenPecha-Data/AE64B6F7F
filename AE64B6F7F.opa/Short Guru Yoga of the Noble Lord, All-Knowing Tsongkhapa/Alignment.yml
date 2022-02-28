@@ -1,0 +1,22 @@
+segment_sources:
+  P4232A459:
+    type: origin_type
+    relation: translation
+    language: en
+  PD7FD3E31:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2182f0f1b21e47eeb0fcc1c672884617:
+    P4232A459: 46b8c911f48b4a6f8c0242ccebbcf840
+    PD7FD3E31: 391791bdac494a73b9eb29c693492ee5
+  fb5cef3014d64dfba22e7eaf23733621:
+    P4232A459: 8d1235abb64544799bb225e89cfb0fd4
+    PD7FD3E31: 72edd05d6f914a53ad0212b9d11128f9
+  fd385f56dc624038a7ac0451eed053d4:
+    P4232A459: 157f5047836440e3ad48f9d594fc04e7
+    PD7FD3E31: 65908dba90e54261aca1e6b9404ab2a4
+  cd6db526fdc34e43a05d5d006beb029f:
+    P4232A459: 2737c69dac7c462695a6aadd8cdaf479
+    PD7FD3E31: 126a260d980a4933bf81d32251cdc6a7
